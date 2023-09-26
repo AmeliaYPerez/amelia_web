@@ -1,0 +1,63 @@
+/* Estilos globales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  background-color: #062863;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.section-bg {
+  background-color: #607ec9;
+  padding: 40px 0;
+}
+
+/* Estilos de sección */
+h1,
+h2,
+h3 {
+  color: #062863;
+}
+
+.project {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* Estilos de enlaces */
+a {
+  color: #062863;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #007bff;
+}
+
+/* Estilos de lista */
+ul {
+  list-style: none;
+}
+
+/* Estilos de pie de página */
+.footer {
+  text-align: center;
+  background-color: #062863;
+  color: #ffffff;
+  padding: 10px 0;
+}
